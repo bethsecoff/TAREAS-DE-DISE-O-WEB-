@@ -1,0 +1,206 @@
+#francia-1{
+    float: left;
+    background-color: blue;
+    width: 83px;
+    height: 160px;
+}
+
+#francia-2{
+    float: left;
+    background-color: white;
+    width: 83px;
+    height: 160px;
+}
+
+#francia-3{
+    float: left;
+    background-color: red;
+    width: 83px;
+    height: 160px;
+    margin-bottom: 5px;
+    
+}
+
+#alemania-1{
+    float: none;
+    background-color: black;
+    width: 248px;
+    height: 50px;
+    clear: both;
+}
+
+#alemania-2{
+    float: none;
+    background-color: red;
+    width: 248px;
+    height: 50px;
+    clear: both;
+}
+
+#alemania-3{
+    float: none;
+    background-color: yellow;
+    width: 248px;
+    height: 50px;
+    margin-bottom: 5px;
+    clear: both;
+}
+
+#italia-1{
+    background-color: green;
+    width: 83px;
+    height: 160px;
+    float: left;
+
+}
+
+#italia-2{
+    background-color: white;
+    width: 83px;
+    height: 160px;
+    float: left;
+}
+
+#italia-3{
+    background-color: red;
+    width: 83px;
+    height: 160px;
+    float: left;
+    margin-bottom: 5px;
+    
+}
+
+#holanda-1{
+    background-color: red;
+    width: 248px;
+    height: 50px;
+    clear: both;
+}
+
+#holanda-2{
+    background-color: white;
+    width: 248px;
+    height: 50px;
+    clear: both;
+}
+
+#holanda-3{
+    background-color: blue;
+    width: 248px;
+    height: 50px;
+    margin-bottom: 5px;
+    clear: both;
+}
+
+
+#rusia-1{
+    background-color: white;
+    width: 248px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+#rusia-2{
+    background-color: blue;
+    width: 248px;
+    height: 50px;
+}
+
+#rusia-3{
+    background-color: red;
+    width: 248px;
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+#belgica-1{
+    background-color: black;
+    width: 83px;
+    height: 160px;
+    float: left;
+}
+
+#belgica-2{
+    background-color: yellow;
+    width: 83px;
+    height: 160px;
+    float: left;
+}
+
+#belgica-3{
+    background-color: red;
+    width: 83px;
+    height: 160px;
+    float: left;
+    margin-bottom: 5px;
+    
+}
+
+#austria-1{
+    background-color: red;
+    width: 248px;
+    height: 50px;
+    clear: both;
+}
+
+#austria-2{
+    background-color: white;
+    width: 248px;
+    height: 50px;
+    clear: both;
+}
+
+#austria-3{
+    background-color: red;
+    width: 248px;
+    height: 50px;
+    margin-bottom: 5px;
+    clear: both;
+}
+
+.japon{
+    background-color: white;
+    width: 248px;
+    height: 155px ;
+    margin-bottom: 5px;
+    position:relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.circulo{
+
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    border-radius: 80%;
+    position:absolute;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#ucrania-1{
+    background-color: yellow;
+    width: 248px;
+    height: 80px;
+}
+
+#ucrania-2{
+    background-color: blue;
+    width: 248px;
+    height: 80px;
+    margin-bottom: 5px;
+}
+
+#polonia-1{
+    background-color: white;
+    width: 248px;
+    height: 80px;
+}
+
+#polonia-2{
+    background-color: red;
+    width: 248px;
+    height: 80px;
+}
